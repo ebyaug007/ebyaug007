@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="ebyaug007's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anumathew&show_icons=true&hide_border=true"/>
+<img align="left" alt="ebyaug007's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ebyaug007&show_icons=true&hide_border=true"/>
 
 [twitter]: https://twitter.com/ebyaug007
 [linkedin]: https://www.linkedin.com/in/eby-augustine-a3258085/
