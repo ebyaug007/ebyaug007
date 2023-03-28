@@ -2,8 +2,8 @@
 
 ## I'm a Developer!
 - 🔭  I’m working for Edstem Technologies !
-- 🌱  Spring Boot 🤣
-- 👯  Intrest in testing,designing and crafting efficient modern software and learning new technologies
+- 🌱  Spring Boot 
+- 👯  Interest in testing,designing and crafting efficient modern software and learning new technologies
 
 ### Connect with me:
 [<img align="left" alt="ebyaug007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -35,11 +35,10 @@
 
 ### 📕 Professional Experience
 
+- [Edstem Technologies](https://www.edstem.com/)
 - [Tata Consultancy Services](https://www.tcs.com/)
 
 ---
-
-<img align="left" alt="ebyaug007's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ebyaug007&show_icons=true&hide_border=true"/>
 
 [twitter]: https://twitter.com/ebyaug007
 [linkedin]: https://www.linkedin.com/in/eby-augustine-a3258085/
