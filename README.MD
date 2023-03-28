@@ -1,8 +1,8 @@
 ### Hi there, I'm Eby  👋
 
 ## I'm a Developer!
-- 🔭  I’m working for Tata Consultancy Services !
-- 🌱  I’m currently learning and experimenting Spring Boot 🤣
+- 🔭  I’m working for Edstem Technologies !
+- 🌱  Spring Boot 🤣
 - 👯  Intrest in testing,designing and crafting efficient modern software and learning new technologies
 
 ### Connect with me:
